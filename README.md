@@ -1,0 +1,2 @@
+# Void
+function getMax
